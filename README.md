@@ -78,6 +78,54 @@ Tahun Terbit: Harus berupa bilangan bulat positif.
 
         python book_manager.py.
 
+# Contoh Penggunaan
+
+# menambahkan buku 
+
+        === Sistem Pengelolaan Buku ===
+
+        1.Tambah Buku
+
+        2.Tampilkan Data Buku 
+
+        3. keluar 
+
+        Pilih menu (1-3): 1
+        
+        Masukkan judul buku: Pemrograman Python
+        
+        Masukkan pengarang buku: Guido van Rossum
+        
+        Masukkan tahun terbit buku: 2020
+        
+        Buku berhasil ditambahkan!
+
+# menampilkan data buku 
+
+            == Data Buku ===
+No.  Judul                         Pengarang           Tahun     
+----------------------------------------------------------------------
+1    Pemrograman Python            Guido van Rossum    2023     
+
+# Mengakhiri Program
+
+      === Sistem Pengelolaan Buku ===
+      
+        1.Tambah Buku 
+
+        2. Tampilkan Data buku 
+
+        3.keluar 
+
+        Pilih menu (1-3): 3
+
+        Terima kasih telah menggunakan program ini!
+
+
+        
+
+
+
 
 
 
