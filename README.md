@@ -50,6 +50,36 @@ Mengelola daftar buku:
 
         get_all_books(): mengembalikan semua data buku yang di simpan 
 
+# 4. Class Main
+
+# atribut: 
+
+            manager: Objek dari class BookManager.
+
+            view: Objek dari class View.
+
+# metode: 
+
+        run(): Menjalankan program dalam loop hingga pengguna keluar.
+
+# Validasi Input: 
+
+Judul Buku: Tidak boleh kosong.
+
+Pengarang Buku: Tidak boleh kosong.
+
+Tahun Terbit: Harus berupa bilangan bulat positif.
+
+# Cara Menjalankan
+
+1. simpan file dangan nama book_maneger.py.
+
+2. Jalankan program di terminal/command prompt
+
+        python book_manager.py.
+
+
+
 
 
 
