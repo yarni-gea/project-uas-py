@@ -24,7 +24,9 @@ Metode:
 
     __init__(self, title, author, year): Konstruktor untuk inisialisasi atribut
 
- # 2. Class View
+ # 2. Class  View
 
  Mengelola input/output dari pengguna:
+
+ 
 
