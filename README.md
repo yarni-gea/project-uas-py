@@ -22,5 +22,5 @@ year: Tahun terbi
 
 Metode:
 
-__init__(self, title, author, year): Konstruktor untuk inisialisasi atribut.
+    __init__(self, title, author, year): Konstruktor untuk inisialisasi atribut.
 
