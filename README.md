@@ -8,7 +8,7 @@
 
 ## struktur program 
 
-# 1 class data 
+# 1. class data 
 
 menyinpan informasi tentang data buku 
 
@@ -22,5 +22,9 @@ year: Tahun terbi
 
 Metode:
 
-    __init__(self, title, author, year): Konstruktor untuk inisialisasi atribut.
+    __init__(self, title, author, year): Konstruktor untuk inisialisasi atribut
+
+ # 2. Class View
+
+ Mengelola input/output dari pengguna:
 
