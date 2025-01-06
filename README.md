@@ -36,6 +36,22 @@ Metode:
 
              display_book(books)(): menampilkan data buku dalam bentuk tabel
 
+# 3. Class BookManager
+
+Mengelola daftar buku:
+
+# atribut: 
+
+            books: daftar buku yang disimpna 
+
+# metode: 
+
+        add_book(title, author, year):menambahkan buku ke daftar 
+
+        get_all_books(): mengembalikan semua data buku yang di simpan 
+
+
+
 
 
             
