@@ -29,10 +29,12 @@ Metode:
  Mengelola input/output dari pengguna:
 
  Metode:
-             display_menu(): Menampilkan menu utama.
-            get_book_input(): Meminta input data buku dengan validasi.
-            display_books(books): Menampilkan data buku dalam format tabel.
+             dispalay_ menu(): menampilkan menu utama 
 
+             geet_book_input(): meminta data buku dengan validasi
+
+            
+            
 
  
 
