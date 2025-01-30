@@ -119,7 +119,7 @@ No.  Judul                         Pengarang           Tahun
 
         Pilih menu (1-3): 3
 
-        Terima kasih telah menggunakan program ini!
+        Terima kasih telah menggunakan program ini! 
 
 
         
